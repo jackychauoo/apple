@@ -1,0 +1,49 @@
+[2025-03-18 11:12:04][notice]Start restoring plugin.
+[2025-03-18 11:12:04][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:0
+[2025-03-18 11:12:06][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:0 finished.
+[2025-03-18 11:12:06][notice]End restore plugin.
+[2025-03-18 11:12:07][notice]Start restoring plugin.
+[2025-03-18 11:12:07][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:1000
+[2025-03-18 11:12:11][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:1000 finished.
+[2025-03-18 11:12:11][notice]End restore plugin.
+[2025-03-18 11:12:13][notice]Start restoring plugin.
+[2025-03-18 11:12:13][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:2000
+[2025-03-18 11:12:26][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:2000 finished.
+[2025-03-18 11:12:26][notice]End restore plugin.
+[2025-03-18 11:12:27][notice]Start restoring plugin.
+[2025-03-18 11:12:27][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:3000
+[2025-03-18 11:12:39][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:3000 finished.
+[2025-03-18 11:12:39][notice]End restore plugin.
+[2025-03-18 11:12:41][notice]Start restoring plugin.
+[2025-03-18 11:12:41][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:4000
+[2025-03-18 11:12:53][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:4000 finished.
+[2025-03-18 11:12:53][notice]End restore plugin.
+[2025-03-18 11:12:55][notice]Start restoring plugin.
+[2025-03-18 11:12:55][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:5000
+[2025-03-18 11:13:08][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:5000 finished.
+[2025-03-18 11:13:08][notice]End restore plugin.
+[2025-03-18 11:13:10][notice]Start restoring plugin.
+[2025-03-18 11:13:10][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:6000
+[2025-03-18 11:13:22][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:6000 finished.
+[2025-03-18 11:13:22][notice]End restore plugin.
+[2025-03-18 11:13:23][notice]Start restoring plugin.
+[2025-03-18 11:13:23][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:7000
+[2025-03-18 11:13:36][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:7000 finished.
+[2025-03-18 11:13:36][notice]End restore plugin.
+[2025-03-18 11:13:37][notice]Start restoring plugin.
+[2025-03-18 11:13:37][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:8000
+[2025-03-18 11:13:51][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:8000 finished.
+[2025-03-18 11:13:51][notice]End restore plugin.
+[2025-03-18 11:13:53][notice]Start restoring plugin.
+[2025-03-18 11:13:53][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:9000
+[2025-03-18 11:14:12][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:9000 finished.
+[2025-03-18 11:14:12][notice]End restore plugin.
+[2025-03-18 11:14:13][notice]Start restoring plugin.
+[2025-03-18 11:14:13][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:10000
+[2025-03-18 11:14:25][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:10000 finished.
+[2025-03-18 11:14:25][notice]End restore plugin.
+[2025-03-18 11:14:27][notice]Start restoring plugin.
+[2025-03-18 11:14:27][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:11000
+[2025-03-18 11:14:35][notice]Extracting file:applebeautyorigin.com_wpvivid-4fa7ba7954342_2024-12-05-03-49_backup_plugin.zip index:11000 finished.
+[2025-03-18 11:14:35][notice]End restore plugin.
+[2025-03-18 11:14:37][notice]Deleting temp files.

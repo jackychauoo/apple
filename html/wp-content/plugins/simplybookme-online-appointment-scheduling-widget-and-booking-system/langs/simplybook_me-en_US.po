@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SimplyBook\n"
+"POT-Creation-Date: 2017-04-27 16:50+0300\n"
+"PO-Revision-Date: 2017-05-04 11:29+0300\n"
+"Last-Translator: Vetal <support@simplybook.me>\n"
+"Language-Team: Vetal <support@simplybook.me>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: sbGetText;_;gettext;gettext_noop;sb_show_text;_t\n"
+"X-Poedit-Basepath: /var/www/html/wordpress/wp-content\n"
+"X-Poedit-SearchPath-0: plugins\n"
+"X-Poedit-SearchPathExcluded-0: plugins/simplybook.me/libs\n"
+"X-Poedit-SearchPathExcluded-1: plugins/simplybook.me/js/view/paypal.js\n"
+"X-Poedit-SearchPathExcluded-2: plugins/simplybook.me/js/init.min.js\n"
+
+
+msgid "Pay"
+msgstr "Pay"
+
+msgid "sb_base_color"
+msgstr "Base color"
+
+msgid "flexible"
+msgstr "Flexible"
+
+msgid "modern"
+msgstr "Modern"
+
+msgid "flexible_week"
+msgstr "Flexible week"
+
+msgid "modern_week"
+msgstr "Slots weekly"
+
+msgid "classes"
+msgstr "Modern provider"
+
+msgid "flexible_provider"
+msgstr "Flexible provider"
+
+msgid "classes_plugin"
+msgstr "Classes"
+
+msgid "tritanopia"
+msgstr "Tritanopia"
+
+msgid "protanopia_deuteranopia"
+msgstr "Protanopia deuteranopia"
+
+msgid "full_width"
+msgstr "Full width"
+
+msgid "fixed_width"
+msgstr "Fixed width"
+
